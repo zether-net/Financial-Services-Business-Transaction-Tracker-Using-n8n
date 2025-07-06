@@ -57,14 +57,14 @@
           "value": "14EGFuMxTSIcswa2aEZ9w_f27ADVrNTurBDjAJI0elVo",
           "mode": "list",
           "cachedResultName": "GoCash",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14EGFuMxTSIcswa2aEZ9w_f27ADVrNTurBDjAJI0elVo/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d"
         },
         "sheetName": {
           "__rl": true,
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Sheet1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14EGFuMxTSIcswa2aEZ9w_f27ADVrNTurBDjAJI0elVo/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/"
         },
         "columns": {
           "mappingMode": "defineBelow",
@@ -184,7 +184,7 @@
         4100,
         395
       ],
-      "id": "258b5c71-925d-4671-a289-c98881153f89",
+      "id": "",
       "name": "Update row in sheet",
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -195,7 +195,7 @@
     },
     {
       "parameters": {
-        "chatId": "-1002780791540",
+        "chatId": "",
         "text": "=Edited Transaction:\n\nTransaction Type: {{ $json.transaction_type }} \nAccount Number: {{ $json.account_number }} \nAmount: {{ $json.amount }} \nProfit: {{ $json.net_profit }} \nReference Number: {{ $json.reference_number }}",
         "additionalFields": {
           "appendAttribution": false
@@ -207,7 +207,7 @@
         4320,
         395
       ],
-      "id": "6efc02bd-c832-49d4-b952-902ed7de966c",
+      "id": "",
       "name": "Send a text message",
       "webhookId": "2b8b15af-b341-48aa-8431-70bf8ac340a9",
       "credentials": {
@@ -316,14 +316,14 @@
           "value": "14EGFuMxTSIcswa2aEZ9w_f27ADVrNTurBDjAJI0elVo",
           "mode": "list",
           "cachedResultName": "GoCash",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14EGFuMxTSIcswa2aEZ9w_f27ADVrNTurBDjAJI0elVo/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/"
         },
         "sheetName": {
           "__rl": true,
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Sheet1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14EGFuMxTSIcswa2aEZ9w_f27ADVrNTurBDjAJI0elVo/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/"
         },
         "columns": {
           "mappingMode": "defineBelow",
